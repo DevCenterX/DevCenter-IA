@@ -1,7 +1,7 @@
 {
-  "name": "DevCenter IA",
-  "short_name": "DevCenter",
-  "description": "Asistente de IA para desarrollo web",
+  "name": "DevCenter IA - Web Generation Assistant",
+  "short_name": "DevCenter IA",
+  "description": "Advanced AI assistant for generating complete, functional web pages with cutting-edge design and full code implementation",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0f1e",
